@@ -6,5 +6,5 @@ def my_collect(array) # put argument(s) here
      i = i +1
      new_collection << i 
    end# code here
-   
+
 end
