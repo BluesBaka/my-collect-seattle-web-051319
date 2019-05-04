@@ -4,7 +4,7 @@ def my_collect(array) # put argument(s) here
    while i <array.length
 
      i +=1
-     new_collection << yeild(array[i])
+     new_collection << yield(array[i])
    end# code here
    new_collection
 end
